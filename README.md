@@ -1,11 +1,13 @@
 # LanDioMagno
 # dio-flashlight
+#Compartilhando Apk para teste: na lista de Arquivos busque por LanternaMagneto.apk , baixe e instale
+
 
 Desafio dio: Construindo um app usando o sensor de movimento com React Native
 
-![image](https://user-images.githubusercontent.com/28990749/165650549-07daaabe-15fa-432e-9146-71bae90e43b0.png)
+![Screenshot_1653170698](https://user-images.githubusercontent.com/80180880/169670408-b148558c-2d21-4924-a61a-9980915ff1a4.png)
 
-![image](https://user-images.githubusercontent.com/28990749/165650568-afdd77ea-fa79-488c-ac0b-13c9ecce847c.png)
+![Screenshot_1653170703](https://user-images.githubusercontent.com/80180880/169670435-cf45782a-3a1f-401b-a2d4-bda3b7f25a86.png)
 
 
 ## Conteúdo 
